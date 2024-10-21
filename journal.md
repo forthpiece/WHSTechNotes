@@ -26,3 +26,8 @@ How might understanding code help you in industries that aren’t directly relat
 How does coding enhance creativity or collaboration?
 Provide examples where coding knowledge might benefit professionals in various fields. Remember to use specific examples and reflect on how coding can impact your future career path, even if it’s not directly related to computer science.
 You can use coding to help develop automated workflows, regardless of the industry you're in. Learning to code can also improve your resilience and teach you essential problem-solving skills, all of which can be useful and applicable across a wide range of professional fields.
+# OCTOBER 21, 2024
+Helpful: How does AI improve efficiency and innovation in industries like healthcare, education, or transportation?
+Harmful: What are some risks AI poses, such as job automation, bias in algorithms, or cybersecurity threats?
+Write two paragraphs—one focusing on the benefits and one on the potential risks.
+AI transforms business operations and processes by automating routine tasks, extracting insights from data sets, and enhancing customer experiences. Danger to humans. Unclear legal regulation.
