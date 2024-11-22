@@ -31,3 +31,21 @@ Helpful: How does AI improve efficiency and innovation in industries like health
 Harmful: What are some risks AI poses, such as job automation, bias in algorithms, or cybersecurity threats?
 Write two paragraphs—one focusing on the benefits and one on the potential risks.
 AI transforms business operations and processes by automating routine tasks, extracting insights from data sets, and enhancing customer experiences. Danger to humans. Unclear legal regulation.
+# OCTOBER 28, 2024
+With the upcoming election, technology plays a huge role in various aspects, from voting machines to social media. How do you think computer science and technology impact the election process? Discuss one positive impact and one potential challenge or concern. Be sure to provide specific examples of how programming, security, or technology influences elections today.- The voting process has undergone significant transformations over the years, evolving from simple paper ballots to sophisticated electronic methods.
+# NOVEMBER 4, 2024
+In today’s digital world, sharing and publishing content online is more common than ever. Whether you’re contributing to a project, posting on social media, or submitting work for class, it’s important to think about the kinds of information you’re sharing and how it can be used.
+Reflect on the following questions:
+Why is it important to protect your personal and sensitive information when publishing online?
+What steps can you take to ensure that the information you share on platforms like GitHub or social media remains secure?
+Have you ever shared something online that you later realized was too personal? How would you handle that differently now?
+How can you balance being open and collaborative in online spaces (like working with others on coding projects) while still protecting your privacy?
+Write a paragraph or more considering these questions. Include examples of actions you can take to safeguard your own data, and reflect on why being cautious online is important for your personal and professional life.
+If sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms.Authentication to GitHub.Create a strong password,Switching between accounts,Verifying devices on sign in,Update access credentials.I did not regret sharing the following online, as I learnt a lesson from that, but I stopped sharing similar things all together after that.By fostering open dialogue and cooperation, stakeholders can work together to develop policies, tools, and best practices that protect.
+# NOVEMBER 12, 2024
+Choose a current event that interests you or impacts your community.
+In a paragraph, briefly summarize the event and explain how it relates to any of the concepts we’ve been learning in class (e.g., problem-solving, technology, or data analysis).
+In a second paragraph, reflect on how advancements in computer science or technology could play a role in addressing this event or similar issues in the future.
+Perhaps your employer asked you to attend a workshop at the last minute, or you had to study for a policy exam. These make great real-life examples of times you had to learn something new within a short deadline. Discuss your diligence and actions to learn the content, task, or responsibility within a short timeline.AI will be integrated into most aspects of life, producing new efficiencies and enhancing human capacities.
+# NOVEMBER 18, 2024
+ Thanksgiving
