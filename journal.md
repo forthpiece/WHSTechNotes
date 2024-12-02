@@ -49,3 +49,13 @@ In a second paragraph, reflect on how advancements in computer science or techno
 Perhaps your employer asked you to attend a workshop at the last minute, or you had to study for a policy exam. These make great real-life examples of times you had to learn something new within a short deadline. Discuss your diligence and actions to learn the content, task, or responsibility within a short timeline.AI will be integrated into most aspects of life, producing new efficiencies and enhancing human capacities.
 # NOVEMBER 18, 2024
  Thanksgiving
+# DECEMBER 2, 2024
+Prompt:
+Artificial intelligence (AI) continues to shape the way we live and work. This week, research one recent development in AI or another emerging technology (e.g., quantum computing, renewable energy tech, AR/VR, etc.). Summarize what you learned and share your thoughts on how it could impact society, your future career, or daily life.
+Follow-Up Questions:
+• What excites or concerns you about this technology?
+• Can you think of an innovative way this technology could be used in your field of interest?
+• What ethical considerations might need to be addressed as this technology evolves?
+AI Overview
+Learn more
+A recent exciting development in AI is the advancement of generative AI models like Google's Bard or OpenAI's ChatGPT, which can create highly realistic text, code, images, and even videos based on user prompts, essentially acting as a "creative AI assistant..
