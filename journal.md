@@ -65,3 +65,4 @@ How do runner-up words like “slop” and “lore” connect to your experience
 In your opinion, is it possible to balance meaningful engagement with technology while avoiding “brain rot”? If so, how?
 Please be very “demure” and very mindful in your response. You can learn more about the the Oxford word of the year here.
 Brain rot is a condition of mental fogginess, lethargy, reduced attention span, and cognitive decline that results from an overabundance of screen time.Runners up included dynamic pricing, demure, romantasy, lore and slop.Users can mitigate the adverse effects of trivial digital engagement by curating online content to include educational, substantive, and enriching material.
+# DECEMBER 16, 2024
