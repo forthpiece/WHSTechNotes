@@ -68,9 +68,12 @@ Brain rot is a condition of mental fogginess, lethargy, reduced attention span, 
 # DECEMBER 16, 2024
 Are you looking forward to the winter break?
 yes because CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS CHRISTMAS 
-# JANUARY 8, 2024
+# JANUARY 8, 2025
 Looking Back:
 Reflect on last semester. What did you enjoy most about the class? What could be improved? Feel free to share any specific feedback about the lessons, projects, or activities we did.
 Looking Ahead:
 As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on?
 What i enjoy most is the TEC in the class,i can improve more thing about TEC.more codeing that are good :)
+# JANUARY 13, 2025
+Write a paragraph reflecting on the following: The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this one?
+They no a lot about the artificial intelligence (AI) and can do a lot with it even to robot. Artificial intelligence (AI) may increase job satisfaction by automating mundane tasks and enabling focus on meaningful work.
