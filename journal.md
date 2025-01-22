@@ -77,3 +77,13 @@ What i enjoy most is the TEC in the class,i can improve more thing about TEC.mor
 # JANUARY 13, 2025
 Write a paragraph reflecting on the following: The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this one?
 They no a lot about the artificial intelligence (AI) and can do a lot with it even to robot. Artificial intelligence (AI) may increase job satisfaction by automating mundane tasks and enabling focus on meaningful work.
+# JANUARY 21, 2025
+Reflect on the following:
+How do you think government intervention impacts technology companies and their users?
+In your opinion, how could companies like TikTok address security concerns while continuing to operate globally?
+Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why.
+What lessons can you take from this situation to apply to your own projects in this course?
+Submission Instructions:
+Write at least TWO paragraphs responding to the prompt using clear and complete sentences.
+Include at least one reference to how this relates to concepts we’ve covered in class, such as data privacy, app development, or software ethics.
+They made a lot of people mad for something they whach and lessen to,i really don't know,2 more passwords, not to say tiktok on the app.
