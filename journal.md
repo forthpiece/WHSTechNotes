@@ -87,7 +87,7 @@ Submission Instructions:
 Write at least TWO paragraphs responding to the prompt using clear and complete sentences.
 Include at least one reference to how this relates to concepts we’ve covered in class, such as data privacy, app development, or software ethics.
 They made a lot of people mad for something they whach and lessen to,i really don't know,2 more passwords, not to say tiktok on the app.
-JANUARY 27, 2025
+# JANUARY 27, 2025
 | Name     | Car | Mistake |
 | :------- | :-- | :------ |
 | Jimmy    |Honda Civic|Drilled Hole In Gas Tank|
