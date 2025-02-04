@@ -94,3 +94,6 @@ They made a lot of people mad for something they whach and lessen to,i really do
 | Kayla    |GMC Sierra|Fixed Wrong Problem|
 | Bart     |Toyota Corolla|Left Stains On Carpet|
 | Harrison |Subaru Forester|Left The Oil Cap Off|
+# FEBRUARY 3, 2025
+Air Traffic Control Systems – How do computer algorithms manage airspace and prevent collisions?Write two (2) paragraphs exploring how technology can integration can provided for increased aviation safety. You can use one or more of the six areas listed above, or you can choose another relevant topic of your interest.
+These algorithms generate trajectories that are free of conflicts with other traffic, avoid convective weather if present, and provide scheduled times for landing with specified in-trail spacings.
