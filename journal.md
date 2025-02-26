@@ -97,3 +97,19 @@ They made a lot of people mad for something they whach and lessen to,i really do
 # FEBRUARY 3, 2025
 Air Traffic Control Systems – How do computer algorithms manage airspace and prevent collisions?Write two (2) paragraphs exploring how technology can integration can provided for increased aviation safety. You can use one or more of the six areas listed above, or you can choose another relevant topic of your interest.
 These algorithms generate trajectories that are free of conflicts with other traffic, avoid convective weather if present, and provide scheduled times for landing with specified in-trail spacings.
+# FEBRUARY 11, 2025
+What features would your application include?
+What type of data structures (e.g., lists, dictionaries, databases) would you use to store player performance statistics?
+How could algorithms (such as sorting, searching, or machine learning models) help analyze the data to improve decision-making?
+If you were to visualize the data, what kind of graphs or dashboards would you create?
+The NFL is exploring ways to supply information to officials faster and more accurately using AI in sports, with plans to significantly increase its use of AI technology in officiating in 2024. While human officials still make the final decisions, AI could aid in reviewing plays and making calls in the future.
+# FEVRUARY 18,2025
+What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
+HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING.
+# FEBRUARY 24. 2025
+How can technology be used to help educators and service providers stay updated on evolving youth language?
+What are some potential benefits and challenges of integrating slang translation tools into educational apps, AI chatbots, or online resources?
+Should schools or youth organizations formally track and teach appropriate slang to improve communication, or is it best left informal?
+How might misunderstandings of slang impact interactions between adults and youth in schools, counseling, or mentoring programs?
+Write two paragraphs exploring how technology could bridge generational language gaps while maintaining professionalism and cultural awareness.
+Tools like virtual tutors, role-play simulations, and automated assessments are just a few examples of how these solutions can transform language classrooms.
