@@ -106,10 +106,14 @@ The NFL is exploring ways to supply information to officials faster and more acc
 # FEVRUARY 18,2025
 What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
 HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING HARD CODEING.
-# FEBRUARY 24. 2025
+# FEBRUARY 24, 2025
 How can technology be used to help educators and service providers stay updated on evolving youth language?
 What are some potential benefits and challenges of integrating slang translation tools into educational apps, AI chatbots, or online resources?
 Should schools or youth organizations formally track and teach appropriate slang to improve communication, or is it best left informal?
 How might misunderstandings of slang impact interactions between adults and youth in schools, counseling, or mentoring programs?
 Write two paragraphs exploring how technology could bridge generational language gaps while maintaining professionalism and cultural awareness.
 Tools like virtual tutors, role-play simulations, and automated assessments are just a few examples of how these solutions can transform language classrooms.
+# MARCH 25, 2025
+Write two paragraphs considering the following:
+“March Madness, the annual NCAA basketball tournament, has increasingly integrated advanced technologies to enhance both gameplay and the fan experience. From the use of artificial intelligence (AI) in predicting game outcomes to the implementation of augmented reality (AR) in broadcasting, technology is reshaping how we engage with sports. Reflect on how these technological advancements have influenced your perception of the tournament. Do you believe AI-driven predictions, such as those attempting to create perfect brackets, add excitement or detract from the unpredictability that makes March Madness thrilling? Additionally, consider the role of social media platforms and streaming services in transforming fan engagement during the tournament. How do these changes impact the traditional viewing experience and your connection to the games?”
+Technologie for the games will make it fun but (AI) predicting who win or lost will not be fun for all the people that are trying to see and whach players play the game that they can whach can pay ticket for.
