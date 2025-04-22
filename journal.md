@@ -126,3 +126,4 @@ What’s one goal you have for the rest of the school year? How will you stay mo
 Who is someone you can talk to when you’re feeling overwhelmed? Why do you trust them?
 You don’t have to have all the answers—just be honest. This is your space.
 Im an filling good right know,Band practice,Breath,To pass the shcool year and lessen and learn, and I trust my mom and dad because they benn there for me.
+# APRIL 7, 2025
