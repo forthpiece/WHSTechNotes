@@ -95,7 +95,7 @@ They made a lot of people mad for something they whach and lessen to,i really do
 | Bart     |Toyota Corolla|Left Stains On Carpet|
 | Harrison |Subaru Forester|Left The Oil Cap Off|
 # FEBRUARY 3, 2025
-Air Traffic Control Systems – How do computer algorithms manage airspace and prevent collisions?Write two (2) paragraphs exploring how technology can integration can provided for increased aviation safety. You can use one or more of the six areas listed above, or you can choose another relevant topic of your interest.
+Air Traffic Control Systems – How do computer algorithms manage airspace and prevent collisions?Write two (2) paragraphs exploring how technology can integration can provided for increased aviation safety. You can use one or more of th e six areas listed above, or you can choose another relevant topic of your interest.
 These algorithms generate trajectories that are free of conflicts with other traffic, avoid convective weather if present, and provide scheduled times for landing with specified in-trail spacings.
 # FEBRUARY 11, 2025
 What features would your application include?
@@ -132,3 +132,6 @@ Recently, a school in Austin, Texas used AI tutors to help students prepare for 
 How do you think AI can help you study, prepare, or stay organized for tests like the STAAR? What would be the most useful feature of an AI tutor for you personally? Be honest—do you think you’d use it? Why or why not?
 # APRIL 14, 2025
 This is a free week.
+# APRIL 22, 2025
+Write a professional appreciation email to any staff member on campus who has made a positive impact on you. This can be a teacher, counselor, coach, custodian, cafeteria worker, or anyone else you want to thank. The email must follow formal email conventions.
+I well like to thank the janitor for cleaning all the thing in the school.
