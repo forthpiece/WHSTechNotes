@@ -135,3 +135,13 @@ This is a free week.
 # APRIL 22, 2025
 Write a professional appreciation email to any staff member on campus who has made a positive impact on you. This can be a teacher, counselor, coach, custodian, cafeteria worker, or anyone else you want to thank. The email must follow formal email conventions.
 I well like to thank the janitor for cleaning all the thing in the school.
+# MAY 5, 2025
+A challenge called “100 Men vs 1 Gorilla” went viral after a famous YouTuber suggested testing it. The idea: could 100 unarmed people defeat a silverback gorilla? Some people say yes with strategy; others say it’s impossible. Write two paragraphs considering the following:
+Do you think the 100 people could win? Why or why not? Use logic, facts, and your own reasoning. .
+Do you think it’s responsible to make this kind of challenge go viral? What might people learn from it—or misunderstand?
+What does this say about how trends spread online? Is there a connection between entertainment and education?
+Use the C.E.R. structure:
+Claim – What do you believe?
+Evidence – What facts or logic back you up?
+Reasoning – Why does this matter?
+100 unarmed men could defeat a single adult male gorilla
