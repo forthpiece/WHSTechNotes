@@ -139,9 +139,16 @@ I well like to thank the janitor for cleaning all the thing in the school.
 A challenge called “100 Men vs 1 Gorilla” went viral after a famous YouTuber suggested testing it. The idea: could 100 unarmed people defeat a silverback gorilla? Some people say yes with strategy; others say it’s impossible. Write two paragraphs considering the following:
 Do you think the 100 people could win? Why or why not? Use logic, facts, and your own reasoning. .
 Do you think it’s responsible to make this kind of challenge go viral? What might people learn from it—or misunderstand?
-What does this say about how trends spread online? Is there a connection between entertainment and education?
+What does this say about how trends spread online? Is there a connection between entertainment and education
 Use the C.E.R. structure:
 Claim – What do you believe?
 Evidence – What facts or logic back you up?
 Reasoning – Why does this matter?
 100 unarmed men could defeat a single adult male gorilla
+# MAY 12, 2025
+Recently, a dangerous trend called the “Chromebook Challenge” has been circulating online. This involves inserting objects like pencils into USB ports, which can cause fires or destroy the device. As a digital citizen and future tech professional, how should we respond to trends that put people and property at risk? What responsibilities do we have when using school technology? How would you explain the real-world consequences of this behavior to someone who thinks it’s “just a joke”?
+Write two paragraphs exploring this topic, and be sure to include:
+A clear claim about whether this trend is ethical or not.
+Evidence or examples (from the letter, your experiences, or what you’ve learned in class).
+Reasoning about why safety and responsible tech use matter.
+People need to stop all of the pencils in the USB we dont need a fire everywhere everyday, all this eople have no respected.
