@@ -152,3 +152,5 @@ A clear claim about whether this trend is ethical or not.
 Evidence or examples (from the letter, your experiences, or what you’ve learned in class).
 Reasoning about why safety and responsible tech use matter.
 People need to stop all of the pencils in the USB we dont need a fire everywhere everyday, all this eople have no respected.
+# MAY 19, 2025
+(!YES!)
